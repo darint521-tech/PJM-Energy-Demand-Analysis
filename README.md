@@ -26,6 +26,5 @@ The project workflow inside the notebook follows these specific phases:
 4. **Statistical Testing:** Running correlation algorithms using SciPy to find the mathematical dependence between the two metrics.
 
 ## Conclusion & Findings
-The data confirmed my hypothesis, revealing a strong non-linear relationship between the variables. Once ambient temperatures exceeded 20–22°C, grid electricity demand accelerated sharply to handle regional cooling loads. The statistical analysis showed a high correlation during these heat spikes, indicating that temperature is a critical predictable driver of infrastructure load during summer months.
-
+The data confirmed a strong nonlinear relationship between the variables, exhibiting a distinct U-shaped structure across the dataset. Across multiple analysis methods—including boxplots, scatter plots, and quadratic regression modeling—temperature emerged as a strong predictor of energy consumption patterns. Electricity demand is lowest during moderate temperatures but accelerates sharply toward both extreme cold and extreme heat conditions, reflecting real-world energy behavior where both winter heating and summer cooling demands heavily stress the electrical system.
 

@@ -16,8 +16,7 @@ This analysis was built entirely within Google Colab using a standard data scien
   * `matplotlib.pyplot` (Data visualization and plotting)
 
 ## Data Source
-* **Data Metrics:** Hourly Ambient Temperature (°C) and Grid Electricity Demand (MW).
-* **Context:** Continuous historical time-series measurements pulled from the PJM Interconnection grid zone database.
+This data set was found on Kaggle, and displays the date, time, and amount of energy (MW) that the PJM grid on the East Coast of the United States consumed per hour. The data was collected from the end of 2002 to the beginning of 2018.
 
 ## Code & Analysis Steps
 The project workflow inside the notebook follows these specific phases:

@@ -1,4 +1,4 @@
-# PJM Regional Grid Electricity Demand & Temperature Analysis
+# PJM Grid Electricity Demand & Temperature Analysis
 An exploratory data analysis (EDA) evaluating the relationship between temperature and electricity demand.
 
 ## Project Overview
